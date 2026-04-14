@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "ChatGPT 在线体验网站列表",
   "license": "MIT",
-  "repository": "https://github.com/lzwme/chatgpt-nav.git",
+  "repository": "https://github.com/ABC1319/chatgpt-nav.git",
   "author": {
     "name": "renxia",
-    "email": "lzwy0820@qq.com",
-    "url": "https://lzw.me"
+    "email": "123456@qq.com",
+    "url": "https://github.com/"
   },
   "type": "module",
   "scripts": {
